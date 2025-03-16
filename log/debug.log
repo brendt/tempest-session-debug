@@ -1,0 +1,589 @@
+0 [0;38;5;208m"[1;38;5;113mhi[0;38;5;208m"[m
+/Users/brent/Dev/ta/app/BookController.php:25
+0 [0;38;5;208m[38;5;38marray:1[0;38;5;208m [[m
+ [0;38;5;208m"[38;5;113mtitle[0;38;5;208m" => ""[m
+[0;38;5;208m][m
+/Users/brent/Dev/ta/app/BookController.php:26
+0 [0;38;5;208m[38;5;38marray:1[0;38;5;208m [[m
+ [0;38;5;208m"[38;5;113mtitle[0;38;5;208m" => "[1;38;5;113masdsd[0;38;5;208m"[m
+[0;38;5;208m][m
+/Users/brent/Dev/ta/app/BookController.php:26
+0 [0;38;5;208m[38;5;38marray:3[0;38;5;208m [[m
+ [0;38;5;208m"[38;5;113mtitle[0;38;5;208m" => ""[m
+ [0;38;5;208m"[38;5;113mdescription[0;38;5;208m" => ""[m
+ [0;38;5;208m"[38;5;113mpublishedAt[0;38;5;208m" => ""[m
+[0;38;5;208m][m
+/Users/brent/Dev/ta/app/BookController.php:26
+0 [0;38;5;208m[38;5;38marray:3[0;38;5;208m [[m
+ [0;38;5;208m"[38;5;113mtitle[0;38;5;208m" => ""[m
+ [0;38;5;208m"[38;5;113mdescription[0;38;5;208m" => ""[m
+ [0;38;5;208m"[38;5;113mpublishedAt[0;38;5;208m" => ""[m
+[0;38;5;208m][m
+/Users/brent/Dev/ta/app/BookController.php:26
+0 [0;38;5;208m[38;5;38marray:3[0;38;5;208m [[m
+ [0;38;5;208m"[38;5;113mtitle[0;38;5;208m" => ""[m
+ [0;38;5;208m"[38;5;113mdescription[0;38;5;208m" => ""[m
+ [0;38;5;208m"[38;5;113mpublishedAt[0;38;5;208m" => ""[m
+[0;38;5;208m][m
+/Users/brent/Dev/ta/app/BookController.php:26
+0 [0;38;5;208m[38;5;38mApp\BookRequest[0;38;5;208m\ {[38;5;247m#94[0;38;5;208m[m
+ [0;38;5;208m+[39mtitle[0;38;5;208m: "[1;38;5;113msad[0;38;5;208m"[m
+ [0;38;5;208m+[39mdescription[0;38;5;208m: ""[m
+ [0;38;5;208m+[39mpublishedAt[0;38;5;208m: [38;5;38mDateTimeImmutable @1741438909[0;38;5;208m {[38;5;247m#397[0;38;5;208m[m
+  [0;38;5;208m[38;5;170mdate[0;38;5;208m: [1;38;5;208m2025-03-08 13:01:49.395691 UTC (+00:00)[0;38;5;208m[m
+ [0;38;5;208m}[m
+ [0;38;5;208m+[39mmethod[0;38;5;208m: [38;5;38mTempest\Http\Method[0;38;5;208m\ {[38;5;247m#121[0;38;5;208m[m
+  [0;38;5;208m+[39mname[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+  [0;38;5;208m+[39mvalue[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+ [0;38;5;208m}[m
+ [0;38;5;208m+[39muri[0;38;5;208m: "[1;38;5;113mhttp://ta.test/books[0;38;5;208m"[m
+ [0;38;5;208m+[39mbody[0;38;5;208m: [38;5;38marray:3[0;38;5;208m [[m
+  [0;38;5;208m"[38;5;113mtitle[0;38;5;208m" => "[1;38;5;113msad[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mdescription[0;38;5;208m" => ""[m
+  [0;38;5;208m"[38;5;113mpublishedAt[0;38;5;208m" => ""[m
+ [0;38;5;208m][m
+ [0;38;5;208m+[39mheaders[0;38;5;208m: [38;5;38marray:13[0;38;5;208m [[m
+  [0;38;5;208m"[38;5;113mcookie[0;38;5;208m" => "[1;38;5;113mtempest_session_id=3b3c544d-024e-4370-beb4-0f194f0dcd9b[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept-language[0;38;5;208m" => "[1;38;5;113men-US,en;q=0.9,nl;q=0.8,fr;q=0.7,fy;q=0.6,la;q=0.5[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept-encoding[0;38;5;208m" => "[1;38;5;113mgzip, deflate[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mreferer[0;38;5;208m" => "[1;38;5;113mhttp://ta.test/[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept[0;38;5;208m" => "[1;38;5;113mtext/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113muser-agent[0;38;5;208m" => "[1;38;5;113mMozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mupgrade-insecure-requests[0;38;5;208m" => "[1;38;5;113m1[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcontent-type[0;38;5;208m" => "[1;38;5;113mapplication/x-www-form-urlencoded[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113morigin[0;38;5;208m" => "[1;38;5;113mhttp://ta.test[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcache-control[0;38;5;208m" => "[1;38;5;113mmax-age=0[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcontent-length[0;38;5;208m" => "[1;38;5;113m35[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mconnection[0;38;5;208m" => "[1;38;5;113mkeep-alive[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mhost[0;38;5;208m" => "[1;38;5;113mta.test[0;38;5;208m"[m
+ [0;38;5;208m][m
+ [0;38;5;208m+[39mpath[0;38;5;208m: "[1;38;5;113m/books[0;38;5;208m"[m
+ [0;38;5;208m+[39mquery[0;38;5;208m: [][m
+ [0;38;5;208m+[39mfiles[0;38;5;208m: [][m
+ [0;38;5;208m+[3m[39mcookies[0;38;5;208m: [3m[1;38;5;208m~ array[0;38;5;208m[m
+[0;38;5;208m}[m
+/Users/brent/Dev/ta/app/BookController.php:26
+0 [0;38;5;208m[38;5;38mApp\BookRequest[0;38;5;208m\ {[38;5;247m#94[0;38;5;208m[m
+ [0;38;5;208m+[39mtitle[0;38;5;208m: "[1;38;5;113msad[0;38;5;208m"[m
+ [0;38;5;208m+[39mdescription[0;38;5;208m: ""[m
+ [0;38;5;208m+[39mpublishedAt[0;38;5;208m: [38;5;38mDateTimeImmutable @1741438928[0;38;5;208m {[38;5;247m#397[0;38;5;208m[m
+  [0;38;5;208m[38;5;170mdate[0;38;5;208m: [1;38;5;208m2025-03-08 13:02:08.576257 UTC (+00:00)[0;38;5;208m[m
+ [0;38;5;208m}[m
+ [0;38;5;208m+[39mmethod[0;38;5;208m: [38;5;38mTempest\Http\Method[0;38;5;208m\ {[38;5;247m#121[0;38;5;208m[m
+  [0;38;5;208m+[39mname[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+  [0;38;5;208m+[39mvalue[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+ [0;38;5;208m}[m
+ [0;38;5;208m+[39muri[0;38;5;208m: "[1;38;5;113mhttp://ta.test/books[0;38;5;208m"[m
+ [0;38;5;208m+[39mbody[0;38;5;208m: [38;5;38marray:3[0;38;5;208m [[m
+  [0;38;5;208m"[38;5;113mtitle[0;38;5;208m" => "[1;38;5;113msad[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mdescription[0;38;5;208m" => ""[m
+  [0;38;5;208m"[38;5;113mpublishedAt[0;38;5;208m" => ""[m
+ [0;38;5;208m][m
+ [0;38;5;208m+[39mheaders[0;38;5;208m: [38;5;38marray:13[0;38;5;208m [[m
+  [0;38;5;208m"[38;5;113mcookie[0;38;5;208m" => "[1;38;5;113mtempest_session_id=3b3c544d-024e-4370-beb4-0f194f0dcd9b[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept-language[0;38;5;208m" => "[1;38;5;113men-US,en;q=0.9,nl;q=0.8,fr;q=0.7,fy;q=0.6,la;q=0.5[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept-encoding[0;38;5;208m" => "[1;38;5;113mgzip, deflate[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mreferer[0;38;5;208m" => "[1;38;5;113mhttp://ta.test/[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept[0;38;5;208m" => "[1;38;5;113mtext/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcontent-type[0;38;5;208m" => "[1;38;5;113mapplication/x-www-form-urlencoded[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113morigin[0;38;5;208m" => "[1;38;5;113mhttp://ta.test[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113muser-agent[0;38;5;208m" => "[1;38;5;113mMozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mupgrade-insecure-requests[0;38;5;208m" => "[1;38;5;113m1[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcache-control[0;38;5;208m" => "[1;38;5;113mmax-age=0[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcontent-length[0;38;5;208m" => "[1;38;5;113m35[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mconnection[0;38;5;208m" => "[1;38;5;113mkeep-alive[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mhost[0;38;5;208m" => "[1;38;5;113mta.test[0;38;5;208m"[m
+ [0;38;5;208m][m
+ [0;38;5;208m+[39mpath[0;38;5;208m: "[1;38;5;113m/books[0;38;5;208m"[m
+ [0;38;5;208m+[39mquery[0;38;5;208m: [][m
+ [0;38;5;208m+[39mfiles[0;38;5;208m: [][m
+ [0;38;5;208m+[3m[39mcookies[0;38;5;208m: [3m[1;38;5;208m~ array[0;38;5;208m[m
+[0;38;5;208m}[m
+/Users/brent/Dev/ta/app/BookController.php:26
+0 [0;38;5;208m[38;5;38mApp\BookRequest[0;38;5;208m\ {[38;5;247m#94[0;38;5;208m[m
+ [0;38;5;208m+[39mtitle[0;38;5;208m: ""[m
+ [0;38;5;208m+[39mdescription[0;38;5;208m: ""[m
+ [0;38;5;208m+[39mpublishedAt[0;38;5;208m: [38;5;38mDateTimeImmutable @1741438933[0;38;5;208m {[38;5;247m#397[0;38;5;208m[m
+  [0;38;5;208m[38;5;170mdate[0;38;5;208m: [1;38;5;208m2025-03-08 13:02:13.765511 UTC (+00:00)[0;38;5;208m[m
+ [0;38;5;208m}[m
+ [0;38;5;208m+[39mmethod[0;38;5;208m: [38;5;38mTempest\Http\Method[0;38;5;208m\ {[38;5;247m#121[0;38;5;208m[m
+  [0;38;5;208m+[39mname[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+  [0;38;5;208m+[39mvalue[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+ [0;38;5;208m}[m
+ [0;38;5;208m+[39muri[0;38;5;208m: "[1;38;5;113mhttp://ta.test/books[0;38;5;208m"[m
+ [0;38;5;208m+[39mbody[0;38;5;208m: [38;5;38marray:3[0;38;5;208m [[m
+  [0;38;5;208m"[38;5;113mtitle[0;38;5;208m" => ""[m
+  [0;38;5;208m"[38;5;113mdescription[0;38;5;208m" => ""[m
+  [0;38;5;208m"[38;5;113mpublishedAt[0;38;5;208m" => ""[m
+ [0;38;5;208m][m
+ [0;38;5;208m+[39mheaders[0;38;5;208m: [38;5;38marray:13[0;38;5;208m [[m
+  [0;38;5;208m"[38;5;113mcookie[0;38;5;208m" => "[1;38;5;113mtempest_session_id=3b3c544d-024e-4370-beb4-0f194f0dcd9b[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept-language[0;38;5;208m" => "[1;38;5;113men-US,en;q=0.9,nl;q=0.8,fr;q=0.7,fy;q=0.6,la;q=0.5[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept-encoding[0;38;5;208m" => "[1;38;5;113mgzip, deflate[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mreferer[0;38;5;208m" => "[1;38;5;113mhttp://ta.test/[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept[0;38;5;208m" => "[1;38;5;113mtext/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113muser-agent[0;38;5;208m" => "[1;38;5;113mMozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mupgrade-insecure-requests[0;38;5;208m" => "[1;38;5;113m1[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcontent-type[0;38;5;208m" => "[1;38;5;113mapplication/x-www-form-urlencoded[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113morigin[0;38;5;208m" => "[1;38;5;113mhttp://ta.test[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcache-control[0;38;5;208m" => "[1;38;5;113mmax-age=0[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcontent-length[0;38;5;208m" => "[1;38;5;113m32[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mconnection[0;38;5;208m" => "[1;38;5;113mkeep-alive[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mhost[0;38;5;208m" => "[1;38;5;113mta.test[0;38;5;208m"[m
+ [0;38;5;208m][m
+ [0;38;5;208m+[39mpath[0;38;5;208m: "[1;38;5;113m/books[0;38;5;208m"[m
+ [0;38;5;208m+[39mquery[0;38;5;208m: [][m
+ [0;38;5;208m+[39mfiles[0;38;5;208m: [][m
+ [0;38;5;208m+[3m[39mcookies[0;38;5;208m: [3m[1;38;5;208m~ array[0;38;5;208m[m
+[0;38;5;208m}[m
+/Users/brent/Dev/ta/app/BookController.php:26
+0 [0;38;5;208m[38;5;38mApp\BookRequest[0;38;5;208m\ {[38;5;247m#94[0;38;5;208m[m
+ [0;38;5;208m+[39mtitle[0;38;5;208m: ""[m
+ [0;38;5;208m+[39mdescription[0;38;5;208m: ""[m
+ [0;38;5;208m+[39mpublishedAt[0;38;5;208m: [38;5;38mDateTimeImmutable @1741439040[0;38;5;208m {[38;5;247m#397[0;38;5;208m[m
+  [0;38;5;208m[38;5;170mdate[0;38;5;208m: [1;38;5;208m2025-03-08 13:04:00.767296 UTC (+00:00)[0;38;5;208m[m
+ [0;38;5;208m}[m
+ [0;38;5;208m+[39mmethod[0;38;5;208m: [38;5;38mTempest\Http\Method[0;38;5;208m\ {[38;5;247m#121[0;38;5;208m[m
+  [0;38;5;208m+[39mname[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+  [0;38;5;208m+[39mvalue[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+ [0;38;5;208m}[m
+ [0;38;5;208m+[39muri[0;38;5;208m: "[1;38;5;113mhttp://ta.test/books[0;38;5;208m"[m
+ [0;38;5;208m+[39mbody[0;38;5;208m: [38;5;38marray:3[0;38;5;208m [[m
+  [0;38;5;208m"[38;5;113mtitle[0;38;5;208m" => ""[m
+  [0;38;5;208m"[38;5;113mdescription[0;38;5;208m" => ""[m
+  [0;38;5;208m"[38;5;113mpublishedAt[0;38;5;208m" => ""[m
+ [0;38;5;208m][m
+ [0;38;5;208m+[39mheaders[0;38;5;208m: [38;5;38marray:13[0;38;5;208m [[m
+  [0;38;5;208m"[38;5;113mcookie[0;38;5;208m" => "[1;38;5;113mtempest_session_id=3b3c544d-024e-4370-beb4-0f194f0dcd9b[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept-language[0;38;5;208m" => "[1;38;5;113men-US,en;q=0.9,nl;q=0.8,fr;q=0.7,fy;q=0.6,la;q=0.5[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept-encoding[0;38;5;208m" => "[1;38;5;113mgzip, deflate[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mreferer[0;38;5;208m" => "[1;38;5;113mhttp://ta.test/[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept[0;38;5;208m" => "[1;38;5;113mtext/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113muser-agent[0;38;5;208m" => "[1;38;5;113mMozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mupgrade-insecure-requests[0;38;5;208m" => "[1;38;5;113m1[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcontent-type[0;38;5;208m" => "[1;38;5;113mapplication/x-www-form-urlencoded[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113morigin[0;38;5;208m" => "[1;38;5;113mhttp://ta.test[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcache-control[0;38;5;208m" => "[1;38;5;113mmax-age=0[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcontent-length[0;38;5;208m" => "[1;38;5;113m32[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mconnection[0;38;5;208m" => "[1;38;5;113mkeep-alive[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mhost[0;38;5;208m" => "[1;38;5;113mta.test[0;38;5;208m"[m
+ [0;38;5;208m][m
+ [0;38;5;208m+[39mpath[0;38;5;208m: "[1;38;5;113m/books[0;38;5;208m"[m
+ [0;38;5;208m+[39mquery[0;38;5;208m: [][m
+ [0;38;5;208m+[39mfiles[0;38;5;208m: [][m
+ [0;38;5;208m+[3m[39mcookies[0;38;5;208m: [3m[1;38;5;208m~ array[0;38;5;208m[m
+[0;38;5;208m}[m
+/Users/brent/Dev/ta/app/BookController.php:26
+0 [0;38;5;208m""[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m""[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m[38;5;38mDateTimeImmutable @1741439131[0;38;5;208m {[38;5;247m#397[0;38;5;208m[m
+ [0;38;5;208m[38;5;170mdate[0;38;5;208m: [1;38;5;208m2025-03-08 13:05:31.315572 UTC (+00:00)[0;38;5;208m[m
+[0;38;5;208m}[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m[38;5;38mTempest\Http\Method[0;38;5;208m\ {[38;5;247m#121[0;38;5;208m[m
+ [0;38;5;208m+[39mname[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+ [0;38;5;208m+[39mvalue[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+[0;38;5;208m}[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m"[1;38;5;113mhttp://ta.test/books[0;38;5;208m"[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m[38;5;38marray:3[0;38;5;208m [[m
+ [0;38;5;208m"[38;5;113mtitle[0;38;5;208m" => ""[m
+ [0;38;5;208m"[38;5;113mdescription[0;38;5;208m" => ""[m
+ [0;38;5;208m"[38;5;113mpublishedAt[0;38;5;208m" => ""[m
+[0;38;5;208m][m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m[38;5;38marray:13[0;38;5;208m [[m
+ [0;38;5;208m"[38;5;113mcookie[0;38;5;208m" => "[1;38;5;113mtempest_session_id=3b3c544d-024e-4370-beb4-0f194f0dcd9b[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113maccept-language[0;38;5;208m" => "[1;38;5;113men-US,en;q=0.9,nl;q=0.8,fr;q=0.7,fy;q=0.6,la;q=0.5[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113maccept-encoding[0;38;5;208m" => "[1;38;5;113mgzip, deflate[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mreferer[0;38;5;208m" => "[1;38;5;113mhttp://ta.test/[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113maccept[0;38;5;208m" => "[1;38;5;113mtext/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mcontent-type[0;38;5;208m" => "[1;38;5;113mapplication/x-www-form-urlencoded[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113morigin[0;38;5;208m" => "[1;38;5;113mhttp://ta.test[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113muser-agent[0;38;5;208m" => "[1;38;5;113mMozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mupgrade-insecure-requests[0;38;5;208m" => "[1;38;5;113m1[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mcache-control[0;38;5;208m" => "[1;38;5;113mmax-age=0[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mcontent-length[0;38;5;208m" => "[1;38;5;113m32[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mconnection[0;38;5;208m" => "[1;38;5;113mkeep-alive[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mhost[0;38;5;208m" => "[1;38;5;113mta.test[0;38;5;208m"[m
+[0;38;5;208m][m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m"[1;38;5;113m/books[0;38;5;208m"[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m[][m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m[][m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m[38;5;38marray:1[0;38;5;208m [[m
+ [0;38;5;208m"[38;5;113mtempest_session_id[0;38;5;208m" => [38;5;38mTempest\Router\Cookie\Cookie[0;38;5;208m\ {[38;5;247m#516[0;38;5;208m[m
+  [0;38;5;208m+[39mkey[0;38;5;208m: "[1;38;5;113mtempest_session_id[0;38;5;208m"[m
+  [0;38;5;208m+[39mvalue[0;38;5;208m: "[1;38;5;113m3b3c544d-024e-4370-beb4-0f194f0dcd9b[0;38;5;208m"[m
+  [0;38;5;208m+[39mexpiresAt[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39mmaxAge[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39mdomain[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39mpath[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39msecure[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39mhttpOnly[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39msameSite[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+ [0;38;5;208m}[m
+[0;38;5;208m][m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m""[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m""[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m[38;5;38mDateTimeImmutable @1741439131[0;38;5;208m {[38;5;247m#397[0;38;5;208m[m
+ [0;38;5;208m[38;5;170mdate[0;38;5;208m: [1;38;5;208m2025-03-08 13:05:31.315572 UTC (+00:00)[0;38;5;208m[m
+[0;38;5;208m}[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m[38;5;38mTempest\Http\Method[0;38;5;208m\ {[38;5;247m#121[0;38;5;208m[m
+ [0;38;5;208m+[39mname[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+ [0;38;5;208m+[39mvalue[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+[0;38;5;208m}[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m"[1;38;5;113mhttp://ta.test/books[0;38;5;208m"[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m[38;5;38marray:3[0;38;5;208m [[m
+ [0;38;5;208m"[38;5;113mtitle[0;38;5;208m" => ""[m
+ [0;38;5;208m"[38;5;113mdescription[0;38;5;208m" => ""[m
+ [0;38;5;208m"[38;5;113mpublishedAt[0;38;5;208m" => ""[m
+[0;38;5;208m][m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m[38;5;38marray:13[0;38;5;208m [[m
+ [0;38;5;208m"[38;5;113mcookie[0;38;5;208m" => "[1;38;5;113mtempest_session_id=3b3c544d-024e-4370-beb4-0f194f0dcd9b[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113maccept-language[0;38;5;208m" => "[1;38;5;113men-US,en;q=0.9,nl;q=0.8,fr;q=0.7,fy;q=0.6,la;q=0.5[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113maccept-encoding[0;38;5;208m" => "[1;38;5;113mgzip, deflate[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mreferer[0;38;5;208m" => "[1;38;5;113mhttp://ta.test/[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113maccept[0;38;5;208m" => "[1;38;5;113mtext/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mcontent-type[0;38;5;208m" => "[1;38;5;113mapplication/x-www-form-urlencoded[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113morigin[0;38;5;208m" => "[1;38;5;113mhttp://ta.test[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113muser-agent[0;38;5;208m" => "[1;38;5;113mMozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mupgrade-insecure-requests[0;38;5;208m" => "[1;38;5;113m1[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mcache-control[0;38;5;208m" => "[1;38;5;113mmax-age=0[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mcontent-length[0;38;5;208m" => "[1;38;5;113m32[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mconnection[0;38;5;208m" => "[1;38;5;113mkeep-alive[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mhost[0;38;5;208m" => "[1;38;5;113mta.test[0;38;5;208m"[m
+[0;38;5;208m][m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m"[1;38;5;113m/books[0;38;5;208m"[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m[][m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m[][m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m[38;5;38marray:1[0;38;5;208m [[m
+ [0;38;5;208m"[38;5;113mtempest_session_id[0;38;5;208m" => [38;5;38mTempest\Router\Cookie\Cookie[0;38;5;208m\ {[38;5;247m#516[0;38;5;208m[m
+  [0;38;5;208m+[39mkey[0;38;5;208m: "[1;38;5;113mtempest_session_id[0;38;5;208m"[m
+  [0;38;5;208m+[39mvalue[0;38;5;208m: "[1;38;5;113m3b3c544d-024e-4370-beb4-0f194f0dcd9b[0;38;5;208m"[m
+  [0;38;5;208m+[39mexpiresAt[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39mmaxAge[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39mdomain[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39mpath[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39msecure[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39mhttpOnly[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39msameSite[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+ [0;38;5;208m}[m
+[0;38;5;208m][m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m[38;5;38mApp\BookRequest[0;38;5;208m\ {[38;5;247m#94[0;38;5;208m[m
+ [0;38;5;208m+[39mtitle[0;38;5;208m: ""[m
+ [0;38;5;208m+[39mdescription[0;38;5;208m: ""[m
+ [0;38;5;208m+[39mpublishedAt[0;38;5;208m: [38;5;38mDateTimeImmutable @1741439131[0;38;5;208m {[38;5;247m#397[0;38;5;208m[m
+  [0;38;5;208m[38;5;170mdate[0;38;5;208m: [1;38;5;208m2025-03-08 13:05:31.315572 UTC (+00:00)[0;38;5;208m[m
+ [0;38;5;208m}[m
+ [0;38;5;208m+[39mmethod[0;38;5;208m: [38;5;38mTempest\Http\Method[0;38;5;208m\ {[38;5;247m#121[0;38;5;208m[m
+  [0;38;5;208m+[39mname[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+  [0;38;5;208m+[39mvalue[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+ [0;38;5;208m}[m
+ [0;38;5;208m+[39muri[0;38;5;208m: "[1;38;5;113mhttp://ta.test/books[0;38;5;208m"[m
+ [0;38;5;208m+[39mbody[0;38;5;208m: [38;5;38marray:3[0;38;5;208m [[m
+  [0;38;5;208m"[38;5;113mtitle[0;38;5;208m" => ""[m
+  [0;38;5;208m"[38;5;113mdescription[0;38;5;208m" => ""[m
+  [0;38;5;208m"[38;5;113mpublishedAt[0;38;5;208m" => ""[m
+ [0;38;5;208m][m
+ [0;38;5;208m+[39mheaders[0;38;5;208m: [38;5;38marray:13[0;38;5;208m [[m
+  [0;38;5;208m"[38;5;113mcookie[0;38;5;208m" => "[1;38;5;113mtempest_session_id=3b3c544d-024e-4370-beb4-0f194f0dcd9b[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept-language[0;38;5;208m" => "[1;38;5;113men-US,en;q=0.9,nl;q=0.8,fr;q=0.7,fy;q=0.6,la;q=0.5[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept-encoding[0;38;5;208m" => "[1;38;5;113mgzip, deflate[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mreferer[0;38;5;208m" => "[1;38;5;113mhttp://ta.test/[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept[0;38;5;208m" => "[1;38;5;113mtext/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcontent-type[0;38;5;208m" => "[1;38;5;113mapplication/x-www-form-urlencoded[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113morigin[0;38;5;208m" => "[1;38;5;113mhttp://ta.test[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113muser-agent[0;38;5;208m" => "[1;38;5;113mMozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mupgrade-insecure-requests[0;38;5;208m" => "[1;38;5;113m1[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcache-control[0;38;5;208m" => "[1;38;5;113mmax-age=0[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcontent-length[0;38;5;208m" => "[1;38;5;113m32[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mconnection[0;38;5;208m" => "[1;38;5;113mkeep-alive[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mhost[0;38;5;208m" => "[1;38;5;113mta.test[0;38;5;208m"[m
+ [0;38;5;208m][m
+ [0;38;5;208m+[39mpath[0;38;5;208m: "[1;38;5;113m/books[0;38;5;208m"[m
+ [0;38;5;208m+[39mquery[0;38;5;208m: [][m
+ [0;38;5;208m+[39mfiles[0;38;5;208m: [][m
+ [0;38;5;208m+[3m[39mcookies[0;38;5;208m: [3m[1;38;5;208m~ array[0;38;5;208m[m
+[0;38;5;208m}[m
+/Users/brent/Dev/ta/app/BookController.php:26
+title [0;38;5;208m""[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+description [0;38;5;208m""[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+publishedAt [0;38;5;208m[38;5;38mDateTimeImmutable @1741439145[0;38;5;208m {[38;5;247m#397[0;38;5;208m[m
+ [0;38;5;208m[38;5;170mdate[0;38;5;208m: [1;38;5;208m2025-03-08 13:05:45.973278 UTC (+00:00)[0;38;5;208m[m
+[0;38;5;208m}[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+method [0;38;5;208m[38;5;38mTempest\Http\Method[0;38;5;208m\ {[38;5;247m#121[0;38;5;208m[m
+ [0;38;5;208m+[39mname[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+ [0;38;5;208m+[39mvalue[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+[0;38;5;208m}[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+uri [0;38;5;208m"[1;38;5;113mhttp://ta.test/books[0;38;5;208m"[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+body [0;38;5;208m[38;5;38marray:3[0;38;5;208m [[m
+ [0;38;5;208m"[38;5;113mtitle[0;38;5;208m" => ""[m
+ [0;38;5;208m"[38;5;113mdescription[0;38;5;208m" => ""[m
+ [0;38;5;208m"[38;5;113mpublishedAt[0;38;5;208m" => ""[m
+[0;38;5;208m][m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+headers [0;38;5;208m[38;5;38marray:13[0;38;5;208m [[m
+ [0;38;5;208m"[38;5;113mcookie[0;38;5;208m" => "[1;38;5;113mtempest_session_id=3b3c544d-024e-4370-beb4-0f194f0dcd9b[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113maccept-language[0;38;5;208m" => "[1;38;5;113men-US,en;q=0.9,nl;q=0.8,fr;q=0.7,fy;q=0.6,la;q=0.5[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113maccept-encoding[0;38;5;208m" => "[1;38;5;113mgzip, deflate[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mreferer[0;38;5;208m" => "[1;38;5;113mhttp://ta.test/[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113maccept[0;38;5;208m" => "[1;38;5;113mtext/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mcontent-type[0;38;5;208m" => "[1;38;5;113mapplication/x-www-form-urlencoded[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113morigin[0;38;5;208m" => "[1;38;5;113mhttp://ta.test[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113muser-agent[0;38;5;208m" => "[1;38;5;113mMozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mupgrade-insecure-requests[0;38;5;208m" => "[1;38;5;113m1[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mcache-control[0;38;5;208m" => "[1;38;5;113mmax-age=0[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mcontent-length[0;38;5;208m" => "[1;38;5;113m32[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mconnection[0;38;5;208m" => "[1;38;5;113mkeep-alive[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mhost[0;38;5;208m" => "[1;38;5;113mta.test[0;38;5;208m"[m
+[0;38;5;208m][m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+path [0;38;5;208m"[1;38;5;113m/books[0;38;5;208m"[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+query [0;38;5;208m[][m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+files [0;38;5;208m[][m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+cookies [0;38;5;208m[38;5;38marray:1[0;38;5;208m [[m
+ [0;38;5;208m"[38;5;113mtempest_session_id[0;38;5;208m" => [38;5;38mTempest\Router\Cookie\Cookie[0;38;5;208m\ {[38;5;247m#516[0;38;5;208m[m
+  [0;38;5;208m+[39mkey[0;38;5;208m: "[1;38;5;113mtempest_session_id[0;38;5;208m"[m
+  [0;38;5;208m+[39mvalue[0;38;5;208m: "[1;38;5;113m3b3c544d-024e-4370-beb4-0f194f0dcd9b[0;38;5;208m"[m
+  [0;38;5;208m+[39mexpiresAt[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39mmaxAge[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39mdomain[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39mpath[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39msecure[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39mhttpOnly[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39msameSite[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+ [0;38;5;208m}[m
+[0;38;5;208m][m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+title [0;38;5;208m""[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+description [0;38;5;208m""[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+publishedAt [0;38;5;208m[38;5;38mDateTimeImmutable @1741439145[0;38;5;208m {[38;5;247m#397[0;38;5;208m[m
+ [0;38;5;208m[38;5;170mdate[0;38;5;208m: [1;38;5;208m2025-03-08 13:05:45.973278 UTC (+00:00)[0;38;5;208m[m
+[0;38;5;208m}[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+method [0;38;5;208m[38;5;38mTempest\Http\Method[0;38;5;208m\ {[38;5;247m#121[0;38;5;208m[m
+ [0;38;5;208m+[39mname[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+ [0;38;5;208m+[39mvalue[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+[0;38;5;208m}[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+uri [0;38;5;208m"[1;38;5;113mhttp://ta.test/books[0;38;5;208m"[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+body [0;38;5;208m[38;5;38marray:3[0;38;5;208m [[m
+ [0;38;5;208m"[38;5;113mtitle[0;38;5;208m" => ""[m
+ [0;38;5;208m"[38;5;113mdescription[0;38;5;208m" => ""[m
+ [0;38;5;208m"[38;5;113mpublishedAt[0;38;5;208m" => ""[m
+[0;38;5;208m][m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+headers [0;38;5;208m[38;5;38marray:13[0;38;5;208m [[m
+ [0;38;5;208m"[38;5;113mcookie[0;38;5;208m" => "[1;38;5;113mtempest_session_id=3b3c544d-024e-4370-beb4-0f194f0dcd9b[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113maccept-language[0;38;5;208m" => "[1;38;5;113men-US,en;q=0.9,nl;q=0.8,fr;q=0.7,fy;q=0.6,la;q=0.5[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113maccept-encoding[0;38;5;208m" => "[1;38;5;113mgzip, deflate[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mreferer[0;38;5;208m" => "[1;38;5;113mhttp://ta.test/[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113maccept[0;38;5;208m" => "[1;38;5;113mtext/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mcontent-type[0;38;5;208m" => "[1;38;5;113mapplication/x-www-form-urlencoded[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113morigin[0;38;5;208m" => "[1;38;5;113mhttp://ta.test[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113muser-agent[0;38;5;208m" => "[1;38;5;113mMozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mupgrade-insecure-requests[0;38;5;208m" => "[1;38;5;113m1[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mcache-control[0;38;5;208m" => "[1;38;5;113mmax-age=0[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mcontent-length[0;38;5;208m" => "[1;38;5;113m32[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mconnection[0;38;5;208m" => "[1;38;5;113mkeep-alive[0;38;5;208m"[m
+ [0;38;5;208m"[38;5;113mhost[0;38;5;208m" => "[1;38;5;113mta.test[0;38;5;208m"[m
+[0;38;5;208m][m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+path [0;38;5;208m"[1;38;5;113m/books[0;38;5;208m"[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+query [0;38;5;208m[][m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+files [0;38;5;208m[][m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+cookies [0;38;5;208m[38;5;38marray:1[0;38;5;208m [[m
+ [0;38;5;208m"[38;5;113mtempest_session_id[0;38;5;208m" => [38;5;38mTempest\Router\Cookie\Cookie[0;38;5;208m\ {[38;5;247m#516[0;38;5;208m[m
+  [0;38;5;208m+[39mkey[0;38;5;208m: "[1;38;5;113mtempest_session_id[0;38;5;208m"[m
+  [0;38;5;208m+[39mvalue[0;38;5;208m: "[1;38;5;113m3b3c544d-024e-4370-beb4-0f194f0dcd9b[0;38;5;208m"[m
+  [0;38;5;208m+[39mexpiresAt[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39mmaxAge[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39mdomain[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39mpath[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39msecure[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39mhttpOnly[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+  [0;38;5;208m+[39msameSite[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+ [0;38;5;208m}[m
+[0;38;5;208m][m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Validation/src/Validator.php:29
+0 [0;38;5;208m[38;5;38mApp\BookRequest[0;38;5;208m\ {[38;5;247m#94[0;38;5;208m[m
+ [0;38;5;208m+[39mtitle[0;38;5;208m: ""[m
+ [0;38;5;208m+[39mdescription[0;38;5;208m: ""[m
+ [0;38;5;208m+[39mpublishedAt[0;38;5;208m: [38;5;38mDateTimeImmutable @1741439145[0;38;5;208m {[38;5;247m#397[0;38;5;208m[m
+  [0;38;5;208m[38;5;170mdate[0;38;5;208m: [1;38;5;208m2025-03-08 13:05:45.973278 UTC (+00:00)[0;38;5;208m[m
+ [0;38;5;208m}[m
+ [0;38;5;208m+[39mmethod[0;38;5;208m: [38;5;38mTempest\Http\Method[0;38;5;208m\ {[38;5;247m#121[0;38;5;208m[m
+  [0;38;5;208m+[39mname[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+  [0;38;5;208m+[39mvalue[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+ [0;38;5;208m}[m
+ [0;38;5;208m+[39muri[0;38;5;208m: "[1;38;5;113mhttp://ta.test/books[0;38;5;208m"[m
+ [0;38;5;208m+[39mbody[0;38;5;208m: [38;5;38marray:3[0;38;5;208m [[m
+  [0;38;5;208m"[38;5;113mtitle[0;38;5;208m" => ""[m
+  [0;38;5;208m"[38;5;113mdescription[0;38;5;208m" => ""[m
+  [0;38;5;208m"[38;5;113mpublishedAt[0;38;5;208m" => ""[m
+ [0;38;5;208m][m
+ [0;38;5;208m+[39mheaders[0;38;5;208m: [38;5;38marray:13[0;38;5;208m [[m
+  [0;38;5;208m"[38;5;113mcookie[0;38;5;208m" => "[1;38;5;113mtempest_session_id=3b3c544d-024e-4370-beb4-0f194f0dcd9b[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept-language[0;38;5;208m" => "[1;38;5;113men-US,en;q=0.9,nl;q=0.8,fr;q=0.7,fy;q=0.6,la;q=0.5[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept-encoding[0;38;5;208m" => "[1;38;5;113mgzip, deflate[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mreferer[0;38;5;208m" => "[1;38;5;113mhttp://ta.test/[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept[0;38;5;208m" => "[1;38;5;113mtext/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcontent-type[0;38;5;208m" => "[1;38;5;113mapplication/x-www-form-urlencoded[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113morigin[0;38;5;208m" => "[1;38;5;113mhttp://ta.test[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113muser-agent[0;38;5;208m" => "[1;38;5;113mMozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mupgrade-insecure-requests[0;38;5;208m" => "[1;38;5;113m1[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcache-control[0;38;5;208m" => "[1;38;5;113mmax-age=0[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcontent-length[0;38;5;208m" => "[1;38;5;113m32[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mconnection[0;38;5;208m" => "[1;38;5;113mkeep-alive[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mhost[0;38;5;208m" => "[1;38;5;113mta.test[0;38;5;208m"[m
+ [0;38;5;208m][m
+ [0;38;5;208m+[39mpath[0;38;5;208m: "[1;38;5;113m/books[0;38;5;208m"[m
+ [0;38;5;208m+[39mquery[0;38;5;208m: [][m
+ [0;38;5;208m+[39mfiles[0;38;5;208m: [][m
+ [0;38;5;208m+[3m[39mcookies[0;38;5;208m: [3m[1;38;5;208m~ array[0;38;5;208m[m
+[0;38;5;208m}[m
+/Users/brent/Dev/ta/app/BookController.php:26
+0 [0;38;5;208m[38;5;38mApp\BookRequest[0;38;5;208m\ {[38;5;247m#94[0;38;5;208m[m
+ [0;38;5;208m+[39mtitle[0;38;5;208m: "[1;38;5;113masd[0;38;5;208m"[m
+ [0;38;5;208m+[39mdescription[0;38;5;208m: "[1;38;5;113masd[0;38;5;208m"[m
+ [0;38;5;208m+[39mpublishedAt[0;38;5;208m: [38;5;38mDateTimeImmutable @1741439175[0;38;5;208m {[38;5;247m#397[0;38;5;208m[m
+  [0;38;5;208m[38;5;170mdate[0;38;5;208m: [1;38;5;208m2025-03-08 13:06:15.628866 UTC (+00:00)[0;38;5;208m[m
+ [0;38;5;208m}[m
+ [0;38;5;208m+[39mmethod[0;38;5;208m: [38;5;38mTempest\Http\Method[0;38;5;208m\ {[38;5;247m#121[0;38;5;208m[m
+  [0;38;5;208m+[39mname[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+  [0;38;5;208m+[39mvalue[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+ [0;38;5;208m}[m
+ [0;38;5;208m+[39muri[0;38;5;208m: "[1;38;5;113mhttp://ta.test/books[0;38;5;208m"[m
+ [0;38;5;208m+[39mbody[0;38;5;208m: [38;5;38marray:3[0;38;5;208m [[m
+  [0;38;5;208m"[38;5;113mtitle[0;38;5;208m" => "[1;38;5;113masd[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mdescription[0;38;5;208m" => "[1;38;5;113masd[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mpublishedAt[0;38;5;208m" => ""[m
+ [0;38;5;208m][m
+ [0;38;5;208m+[39mheaders[0;38;5;208m: [38;5;38marray:13[0;38;5;208m [[m
+  [0;38;5;208m"[38;5;113mcookie[0;38;5;208m" => "[1;38;5;113mtempest_session_id=3b3c544d-024e-4370-beb4-0f194f0dcd9b[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept-language[0;38;5;208m" => "[1;38;5;113men-US,en;q=0.9,nl;q=0.8,fr;q=0.7,fy;q=0.6,la;q=0.5[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept-encoding[0;38;5;208m" => "[1;38;5;113mgzip, deflate[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mreferer[0;38;5;208m" => "[1;38;5;113mhttp://ta.test/[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept[0;38;5;208m" => "[1;38;5;113mtext/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113muser-agent[0;38;5;208m" => "[1;38;5;113mMozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mupgrade-insecure-requests[0;38;5;208m" => "[1;38;5;113m1[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcontent-type[0;38;5;208m" => "[1;38;5;113mapplication/x-www-form-urlencoded[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113morigin[0;38;5;208m" => "[1;38;5;113mhttp://ta.test[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcache-control[0;38;5;208m" => "[1;38;5;113mmax-age=0[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcontent-length[0;38;5;208m" => "[1;38;5;113m38[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mconnection[0;38;5;208m" => "[1;38;5;113mkeep-alive[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mhost[0;38;5;208m" => "[1;38;5;113mta.test[0;38;5;208m"[m
+ [0;38;5;208m][m
+ [0;38;5;208m+[39mpath[0;38;5;208m: "[1;38;5;113m/books[0;38;5;208m"[m
+ [0;38;5;208m+[39mquery[0;38;5;208m: [][m
+ [0;38;5;208m+[39mfiles[0;38;5;208m: [][m
+ [0;38;5;208m+[3m[39mcookies[0;38;5;208m: [3m[1;38;5;208m~ array[0;38;5;208m[m
+[0;38;5;208m}[m
+/Users/brent/Dev/ta/app/BookController.php:26
+0 [0;38;5;208m[38;5;38mApp\BookRequest[0;38;5;208m\ {[38;5;247m#94[0;38;5;208m[m
+ [0;38;5;208m+[39mtitle[0;38;5;208m: "[1;38;5;113masd[0;38;5;208m"[m
+ [0;38;5;208m+[39mdescription[0;38;5;208m: "[1;38;5;113masd[0;38;5;208m"[m
+ [0;38;5;208m+[39mpublishedAt[0;38;5;208m: [38;5;38mDateTimeImmutable @1741439289[0;38;5;208m {[38;5;247m#397[0;38;5;208m[m
+  [0;38;5;208m[38;5;170mdate[0;38;5;208m: [1;38;5;208m2025-03-08 13:08:09.692017 UTC (+00:00)[0;38;5;208m[m
+ [0;38;5;208m}[m
+ [0;38;5;208m+[39mmethod[0;38;5;208m: [38;5;38mTempest\Http\Method[0;38;5;208m\ {[38;5;247m#121[0;38;5;208m[m
+  [0;38;5;208m+[39mname[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+  [0;38;5;208m+[39mvalue[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+ [0;38;5;208m}[m
+ [0;38;5;208m+[39muri[0;38;5;208m: "[1;38;5;113mhttp://ta.test/books[0;38;5;208m"[m
+ [0;38;5;208m+[39mbody[0;38;5;208m: [38;5;38marray:3[0;38;5;208m [[m
+  [0;38;5;208m"[38;5;113mtitle[0;38;5;208m" => "[1;38;5;113masd[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mdescription[0;38;5;208m" => "[1;38;5;113masd[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mpublishedAt[0;38;5;208m" => ""[m
+ [0;38;5;208m][m
+ [0;38;5;208m+[39mheaders[0;38;5;208m: [38;5;38marray:13[0;38;5;208m [[m
+  [0;38;5;208m"[38;5;113mcookie[0;38;5;208m" => "[1;38;5;113mtempest_session_id=3b3c544d-024e-4370-beb4-0f194f0dcd9b[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept-language[0;38;5;208m" => "[1;38;5;113men-US,en;q=0.9,nl;q=0.8,fr;q=0.7,fy;q=0.6,la;q=0.5[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept-encoding[0;38;5;208m" => "[1;38;5;113mgzip, deflate[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mreferer[0;38;5;208m" => "[1;38;5;113mhttp://ta.test/[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept[0;38;5;208m" => "[1;38;5;113mtext/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcontent-type[0;38;5;208m" => "[1;38;5;113mapplication/x-www-form-urlencoded[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113morigin[0;38;5;208m" => "[1;38;5;113mhttp://ta.test[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113muser-agent[0;38;5;208m" => "[1;38;5;113mMozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mupgrade-insecure-requests[0;38;5;208m" => "[1;38;5;113m1[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcache-control[0;38;5;208m" => "[1;38;5;113mmax-age=0[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcontent-length[0;38;5;208m" => "[1;38;5;113m38[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mconnection[0;38;5;208m" => "[1;38;5;113mkeep-alive[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mhost[0;38;5;208m" => "[1;38;5;113mta.test[0;38;5;208m"[m
+ [0;38;5;208m][m
+ [0;38;5;208m+[39mpath[0;38;5;208m: "[1;38;5;113m/books[0;38;5;208m"[m
+ [0;38;5;208m+[39mquery[0;38;5;208m: [][m
+ [0;38;5;208m+[39mfiles[0;38;5;208m: [][m
+ [0;38;5;208m+[3m[39mcookies[0;38;5;208m: [3m[1;38;5;208m~ array[0;38;5;208m[m
+[0;38;5;208m}[m
+/Users/brent/Dev/ta/app/BookController.php:26
+0 [0;38;5;208m""[m
+/Users/brent/Dev/ta/vendor/tempest/framework/src/Tempest/Mapper/src/Casters/DateTimeCaster.php:35
+0 [0;38;5;208m[38;5;38mApp\BookRequest[0;38;5;208m\ {[38;5;247m#94[0;38;5;208m[m
+ [0;38;5;208m+[39mtitle[0;38;5;208m: "[1;38;5;113masd[0;38;5;208m"[m
+ [0;38;5;208m+[39mdescription[0;38;5;208m: "[1;38;5;113masd[0;38;5;208m"[m
+ [0;38;5;208m+[39mpublishedAt[0;38;5;208m: [1;38;5;208mnull[0;38;5;208m[m
+ [0;38;5;208m+[39mmethod[0;38;5;208m: [38;5;38mTempest\Http\Method[0;38;5;208m\ {[38;5;247m#121[0;38;5;208m[m
+  [0;38;5;208m+[39mname[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+  [0;38;5;208m+[39mvalue[0;38;5;208m: "[1;38;5;113mPOST[0;38;5;208m"[m
+ [0;38;5;208m}[m
+ [0;38;5;208m+[39muri[0;38;5;208m: "[1;38;5;113mhttp://ta.test/books[0;38;5;208m"[m
+ [0;38;5;208m+[39mbody[0;38;5;208m: [38;5;38marray:3[0;38;5;208m [[m
+  [0;38;5;208m"[38;5;113mtitle[0;38;5;208m" => "[1;38;5;113masd[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mdescription[0;38;5;208m" => "[1;38;5;113masd[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mpublishedAt[0;38;5;208m" => [1;38;5;208mnull[0;38;5;208m[m
+ [0;38;5;208m][m
+ [0;38;5;208m+[39mheaders[0;38;5;208m: [38;5;38marray:13[0;38;5;208m [[m
+  [0;38;5;208m"[38;5;113mcookie[0;38;5;208m" => "[1;38;5;113mtempest_session_id=3b3c544d-024e-4370-beb4-0f194f0dcd9b[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept-language[0;38;5;208m" => "[1;38;5;113men-US,en;q=0.9,nl;q=0.8,fr;q=0.7,fy;q=0.6,la;q=0.5[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept-encoding[0;38;5;208m" => "[1;38;5;113mgzip, deflate[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mreferer[0;38;5;208m" => "[1;38;5;113mhttp://ta.test/[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113maccept[0;38;5;208m" => "[1;38;5;113mtext/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcontent-type[0;38;5;208m" => "[1;38;5;113mapplication/x-www-form-urlencoded[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113morigin[0;38;5;208m" => "[1;38;5;113mhttp://ta.test[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113muser-agent[0;38;5;208m" => "[1;38;5;113mMozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mupgrade-insecure-requests[0;38;5;208m" => "[1;38;5;113m1[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcache-control[0;38;5;208m" => "[1;38;5;113mmax-age=0[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mcontent-length[0;38;5;208m" => "[1;38;5;113m38[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mconnection[0;38;5;208m" => "[1;38;5;113mkeep-alive[0;38;5;208m"[m
+  [0;38;5;208m"[38;5;113mhost[0;38;5;208m" => "[1;38;5;113mta.test[0;38;5;208m"[m
+ [0;38;5;208m][m
+ [0;38;5;208m+[39mpath[0;38;5;208m: "[1;38;5;113m/books[0;38;5;208m"[m
+ [0;38;5;208m+[39mquery[0;38;5;208m: [][m
+ [0;38;5;208m+[39mfiles[0;38;5;208m: [][m
+ [0;38;5;208m+[3m[39mcookies[0;38;5;208m: [3m[1;38;5;208m~ array[0;38;5;208m[m
+[0;38;5;208m}[m
+/Users/brent/Dev/ta/app/BookController.php:26
